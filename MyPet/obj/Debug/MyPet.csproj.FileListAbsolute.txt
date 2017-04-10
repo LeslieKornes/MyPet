@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MyPet\MyPet\bin\Debug\MyPet.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MyPet\MyPet\bin\Debug\MyPet.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MyPet\MyPet\bin\Debug\MyPet.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MyPet\MyPet\obj\Debug\MyPet.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MyPet\MyPet\obj\Debug\MyPet.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MyPet\MyPet\obj\Debug\MyPet.pdb
